@@ -1,4 +1,4 @@
-# DeepExtratrees-Approche1
+# DeepExtratrees-approach 1
 
 DeepExtraTrees Is Here!
 ========
